@@ -313,7 +313,7 @@ nav {
 }
 
 .two {
-  top: 85px;
+  top: 84px;
   left: 150px;
   transform: rotate(-90deg);
 }
@@ -325,7 +325,7 @@ nav {
 }
 
 .four {
-  bottom: 85px;
+  bottom: 84px;
   right: 150px;
   transform: rotate(-270deg);
 }
